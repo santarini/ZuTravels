@@ -1325,7 +1325,7 @@ div.container{
 .rmm.style ul {display: inline-table; text-align:left;}
 .rmm.style ul li {text-align:left;} 
 .rmm.style ul ul {display: none; margin:0; min-width: 140px; background: #FFFFFF;  border-radius: 0px; padding: 0; position: absolute; z-index: 9999;}
-.rmm.style ul li a {color: #FFFFFF; position: relative; font-size: 13px; font-weight: 600; text-transform: uppercase; padding: 12px 12px 8px; margin-right: 15px; display: block;}
+.rmm.style ul li a {color: #FFFFFF; position: relative; font-size: 13px; font-weight: 600; text-transform: uppercase; padding: 12px 8px 8px; margin-right: 15px; display: block;}
 .rmm.style ul ul li a {border-bottom: 1px solid #ccc; font-size: 13px; font-weight: normal; color: $hover_color; text-transform: capitalize; padding: 6px 50px 6px 15px; margin-right: 0; min-width: 100px;}
 
 .rmm.style ul li > a:not(:only-child):before{position: absolute; content:"\f107"; font-family: fontawesome; right: 0; display: block; top: 15px; font-size: 12px;}
