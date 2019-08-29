@@ -234,21 +234,21 @@ p {
   vertical-align: middle; }
 
 ::-webkit-input-placeholder {
-  color: #FFFFFF;
+  color: #000000;
   opacity: 1; }
 
 :-moz-placeholder {
   /* Firefox 18- */
-  color: #FFFFFF;
+  color: #000000;
   opacity: 1; }
 
 ::-moz-placeholder {
   /* Firefox 19+ */
-  color: #FFFFFF;
+  color: #000000;
   opacity: 1; }
 
 :-ms-input-placeholder {
-  color: #FFFFFF;
+  color: #000000;
   opacity: 1; }
 
 .video-container {
@@ -275,7 +275,7 @@ p {
   width: 94%; }
 
 .header .fa {
-  color: #ffffff;
+  color: #000000;
   display: inline-block;
   font-size: 12px;
   height: 20px;
@@ -311,21 +311,21 @@ form.y-form button {
   width: 100%; }
 form.y-form input {
   width: 100%;
-  color: #FFFFFF;
+  color: #000000;
   padding: 5px 10px;
   height: 40px;
   line-height: 34px;
-  background: #002E5B;
+  background: #D7EBFA;
   border: none;
   margin-bottom: 8px;
   font-size: 14px; }
 form.y-form textarea {
-  color: #FFFFFF;
+  color: #000000;
   width: 100%;
   height: 100px;
   resize: none;
   padding: 10px;
-  background: #002E5B;
+  background: #D7EBFA;
   border: none;
   margin-bottom: 8px;
   font-size: 14px;
@@ -2899,6 +2899,10 @@ div.container {
   background: #4b7699;
   display: none !important; }
 
+.y-pint {
+  background: #cc0000;
+  display: none !important;}
+
 .y-boxed {
   background: transparent url("../images/home_4_bg.jpg") no-repeat fixed 0 0/cover;
   background-position: bottom; }
@@ -2916,7 +2920,7 @@ div.container {
 /* minimal styles for that navi */
 .y-menu_outer {
   margin-top: 0;
-  background: #002E5B;
+  background: white;
   position: relative;
   top: 15px;
   z-index: 9999;
@@ -3107,7 +3111,7 @@ div.container {
   z-index: 9999; }
 
 .rmm.style ul li a {
-  color: #FFFFFF;
+  color: black;
   position: relative;
   font-size: 13px;
   font-weight: 600;
